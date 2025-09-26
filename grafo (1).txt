@@ -1,0 +1,249 @@
+3
+74
+1, NOTIÊ, 4.4, $$$, Rua Formosa 157
+2, A Casa do Porco, 4.4, $$, Rua Araujo 124
+3, Cora, 4.3, $$, Rua Amaral Gurgel 344
+4, Jamile, 4.5, $$, Rua Treze de Maio 647
+5, Blaise, 4.2, $$$, Rua Itapeva 435
+6, Borgo Mooca, 4.5, $$, Rua Barão De Tatuí 302
+7, Ama.zo - Cozinha Peruana, 4.6, $$, Rua Guaianases 1149
+8, Più Higienópolis, 4.3, $$, Avenida Higienópolis 618
+9, Ama.zo - Pátio Higienópolis, 4.6, $$, Avenida Higienópolis 618
+10, A Baianeira - MASP, 4.7, $$, Avenida Paulista 1510
+11, Bicol Korean Cuisine, 4.5, $$, Rua José Getúlio 422
+12, Kan Suke, 4.6, $$$, Rua Manoel da Nóbrega 76
+13, Balaio IMS, 4.6, $$, Avenida Paulista 2424
+14, Dinho's, 4.6, $$$, Alameda Santos 86
+15, Fogo de Chão, 4.8, $$$, Rua Augusta 2077
+16, Komah, 4.6, $$, Rua Cônego Vicente Miguel Marino 378
+17, Charco, 4.5, $$, Rua Peixoto Gomide 1492
+18, KANOE, 5.0, $$$$, Alameda Itu 1578
+19, Kuro, 4.5, $$$, Rua Padre João Manuel 712
+20, Jiquitaia, 4.6, $, Rua Coronel Oscar Porto 808
+21, Bistrot de Paris, 4.6, $$, Rua Augusta 2542
+22, Murakami, 4.9, $$$$, Alameda Lorena 1186
+23, A Baianeira, 4.7, $, Dona Elisa 117
+24, Tordesilhas, 4.6, $, Alameda Tietê 489
+25, Mondo, 4.5, $$$, Rua Oscar Freire 30
+26, Fame Osteria, 4.1, $$$$, Rua Oscar Freire 216
+27, Zena Cucina, 4.5, $$, Rua Peixoto Gomide 1901
+28, Picchi, 4.4, $$$$, Rua Oscar Freire 533
+29, TonTon, 4.6, $, Rua Caconde 132
+30, Les Présidents, 4.4, $$$, Rua Da Consolação 3527
+31, Chef Rouge, 4.6, $$, Rua Bela Cintra 2238
+32, Fasano, 4.6, $$$, Rua Vitório Fasano 88
+33, Piselli, 4.6, $$, Rua Padre João Manuel 1253
+34, A Figueira Rubaiyat, 4.6, $$$, Rua Haddock Lobo 1738
+35, Jun Sakamoto, 4.5, $$$$, Rua Lisboa 55
+36, AE! Cozinha, 4.4, $, Rua Áurea 343
+37, Aiô, 4.8, $$, Rua Áurea 307
+38, Metzi, 4.1, $$$, Rua João Moura 861
+39, Vista, 4.5, $$, Avenida Pedro Álvares Cabral 1301
+40, Evvai, 4.6, $$$$, Rua Joaquim Antunes 108
+41, Kotori, 4.5, $$, Rua Cônego Eugênio Leite 639
+42, Maní, 4.6, $$$, Rua Joaquim Antunes 210
+43, Shihoma Pasta Fresca, 4.2, $$, Rua Medeiros De Albuquerque 431
+44, Chez Claude São Paulo, 4.7, $$$, Rua Professor Tamandaré Toledo 25
+45, Naga, 4.6, $$$, Rua Bandeira Paulista 385
+46, De Segunda, 4.4, $$, Rua Prof. Tamandaré Toledo 160
+47, Osso, 4.6, $$$, Rua Bandeira Paulista 520
+48, Aya Japanese Cuisine, 4.6, $$$, Avenida Pedroso de Morais 141
+49, Maza, 4.6, $$$, Rua Manuel Guedes 243
+50, Banzeiro, 4.7, $$, Rua Tabapuã 830
+51, Lassù, 4.6, $$$, Rua Conselheiro Saraiva 207
+52, Le Bife, 4.6, $$, Rua Pedroso Alvarenga 1088
+53, Brasserie Victória, 4.6, $, Avenida Presidente Juscelino Kubitschek 545
+54, Bottega Bernacca, 3.8, $$, Rua Amauri 244
+55, Vinheria Percussi, 4.6, $$, Rua Bianchi Bertoldi 109
+56, Varanda, 4.6, $$$, Rua Prudente Correia 432
+57, Kinoshita, 4.6, $$$$, Rua Jacques Félix 405
+58, Kosushi, 4.4, $$$, Rua Viradouro 139
+59, Kubo Zushi, 4.7, $$, Rua Das Tabocas 158
+60, Fasano Trattoria, 4.5, $$$, Rua Iguatemi s/n
+61, Huto Köhï, 4.6, $$$$, Rua Leopoldo Couto De Magalhães Júnior 741
+62, Fitó, 4.5, $$, Rua Cardeal Arcoverde 2773
+63, Più Pinheiros, 4.6, $$, Rua Ferreira de Araújo 314
+64, Pobre Juan, 4.6, $$$, Rua Comendador Miguel Calfat 525
+65, The Kith, 4.3, $, Avenida Rebouças 3875
+66, El Tranvia - Itaim Bibi, 4.6, $$$, Rua Leopoldo Couto de Magalhães 1372
+67, Huto, 4.6, $$$$, Avenida Jandira 677
+68, Paparoto Cucina, 4.6, $$$, Av. Pres. Juscelino Kubitschek 2041
+69, Casa Rios, 4.5, $$, Rua Itapura 1327
+70, Oizumi Sushi, 4.9, $$$, Rua Califórnia 785
+71, Huto Campo Belo, 4.6, $$$, Rua Dr. Jesuíno Maciel 682
+72, Mocotó, 4.7, $, Avenida Nossa Senhora do Loreto 1100
+73, Mocotó Vila Leopoldina, 4.7, $$, Rua Aroaba 333
+74, Casa Santo Antônio, 4.6, $$, Avenida João Carlos da Silva Borges 764
+172
+1, 2, 1.0 km
+1, 3, 1.3 km
+1, 4, 2.0 km
+1, 51, 5.9 km
+1, 69, 9.1 km
+1, 72, 10.5 km
+2, 1, 1.0 km
+2, 3, 0.4 km
+2, 6, 1.0 km
+2, 8, 1.5 km
+2, 9, 1.5 km
+3, 1, 1.3 km
+3, 2, 0.4 km
+3, 7, 1.7 km
+3, 8, 1.1 km
+3, 9, 1.1 km
+3, 72, 10.5 km
+4, 1, 2.0 km
+4, 5, 1.2 km
+4, 10, 1.5 km
+4, 11, 2.2 km
+4, 12, 1.2 km
+4, 69, 9.7 km
+5, 4, 1.2 km
+5, 10, 0.45 km
+5, 12, 1.3 km
+5, 17, 1.3 km
+6, 2, 1.0 km
+6, 7, 1.1 km
+6, 8, 0.8 km
+6, 9, 0.8 km
+6, 16, 1.9 km
+6, 23, 1.7 km
+7, 3, 1.7 km
+7, 6, 1.1 km
+7, 16, 1.4 km
+7, 72, 10.5 km
+8, 2, 1.5 km
+8, 3, 1.1 km
+8, 6, 0.8 km
+8, 9, 0.2 km
+9, 2, 1.5 km
+9, 3, 1.1 km
+9, 6, 0.8 km
+9, 8, 0.2 km
+9, 10, 2.0 km
+10, 4, 1.5 km
+10, 5, 0.45 km
+10, 9, 2.0 km
+10, 12, 1.1 km
+10, 13, 0.95 km
+10, 14, 1.6 km
+10, 17, 0.9 km
+11, 4, 2.2 km
+11, 12, 2.2 km
+11, 14, 1.8 km
+11, 20, 1.9 km
+11, 69, 9.2 km
+12, 4, 1.2 km
+12, 5, 1.3 km
+12, 10, 1.1 km
+12, 11, 2.2 km
+12, 14, 0.55 km
+12, 20, 1.1 km
+13, 10, 0.95 km
+13, 15, 0.65 km
+13, 18, 0.65 km
+13, 24, 0.85 km
+14, 10, 1.6 km
+14, 11, 1.8 km
+14, 12, 0.55 km
+14, 20, 0.7 km
+14, 24, 1.3 km
+15, 13, 0.65 km
+15, 18, 0.5 km
+15, 19, 0.5 km
+15, 21, 0.45 km
+16, 6, 1.9 km
+16, 7, 1.4 km
+16, 23, 1.8 km
+16, 51, 5.8 km
+16, 72, 10.5 km
+17, 5, 1.3 km
+17, 10, 0.9 km
+17, 19, 0.4 km
+17, 22, 0.29 km
+17, 26, 0.4 km
+17, 27, 0.4 km
+18, 13, 0.65 km
+18, 15, 0.5 km
+18, 24, 0.4 km
+18, 30, 0.75 km
+19, 15, 0.5 km
+19, 17, 0.4 km
+19, 21, 0.28 km
+19, 22, 0.35 km
+19, 28, 0.35 km
+20, 11, 1.9 km
+20, 12, 1.1 km
+20, 14, 0.7 km
+20, 36, 1.8 km
+20, 37, 1.7 km
+20, 39, 2.3 km
+21, 15, 0.45 km
+21, 19, 0.28 km
+21, 22, 0.4 km
+21, 24, 0.45 km
+21, 28, 0.3 km
+22, 17, 0.29 km
+22, 19, 0.35 km
+22, 21, 0.4 km
+22, 25, 0.4 km
+22, 26, 0.28 km
+22, 27, 0.29 km
+23, 6, 1.7 km
+23, 16, 1.8 km
+24, 13, 0.85 km
+24, 14, 1.3 km
+24, 18, 0.4 km
+24, 21, 0.45 km
+24, 30, 0.4 km
+25, 22, 0.4 km
+25, 26, 0.21 km
+25, 27, 0.22 km
+25, 29, 1.0 km
+26, 17, 0.4 km
+26, 22, 0.28 km
+26, 25, 0.21 km
+26, 27, 0.88 km
+26, 28, 0.3 km
+26, 29, 1.2 km
+26, 33, 0.5 km
+27, 17, 0.4 km
+27, 22, 0.29 km
+27, 25, 0.22 km
+27, 26, 0.88 km
+27, 29, 1.2 km
+27, 33, 0.5 km
+28, 19, 0.35 km
+28, 21, 0.3 km
+28, 26, 0.3 km
+28, 33, 0.3 km
+29, 25, 1.0 km
+29, 26, 1.2 km
+29, 27, 1.2 km
+30, 18, 0.75 km
+30, 24, 0.4 km
+30, 31, 0.28 km
+30, 32, 0.4 km
+30, 35, 0.95 km
+31, 30, 0.28 km
+31, 32, 0.13 km
+31, 34, 0.26 km
+32, 30, 0.4 km
+32, 31, 0.13 km
+32, 33, 0.5 km
+32, 34, 0.13 km
+33, 26, 0.5 km
+33, 27, 0.5 km
+33, 28, 0.3 km
+33, 32, 0.5 km
+33, 34, 0.35 km
+34, 31, 0.26 km
+34, 32, 0.13 km
+34, 33, 0.35 km
+35, 30, 0.95 km
+35, 38, 0.7 km
+35, 40, 0.65 km
+35, 41, 0.6 km
+35, 42, 0.6 km
+35, 43, 1.6 km
+36, 20, 1.8 km
